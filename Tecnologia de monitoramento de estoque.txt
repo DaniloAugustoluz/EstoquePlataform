@@ -7,7 +7,6 @@ comunicação entre distribuidor e varejista
 devoluções 
 Produtos
 Registro de Varejista
-Registro de Lojista
 Registro de contrato de fornecimento de produtos
 Registro de pedidos
 Compra do produto 
@@ -25,7 +24,7 @@ Página de cadastros
 
 Modelagem do Banco de Dados
 
-TABELA CONTROLE ESTOQUE -- TABELA PRINCIPAL  
+TABELA ESTOQUE -- TABELA PRINCIPAL --  o estoque contem...
 
 TABELA PRODUTOS
 
