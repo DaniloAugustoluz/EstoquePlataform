@@ -2,7 +2,7 @@
 
 _Controle e manipulação completa de estoque:_
 
--  Anunciando quando seu produto chega ao nível mínimo no estoque definido por você.
+-  Anuncia quando seu produto chega ao nível mínimo no estoque definido por você.
 
 - Realiza novos pedidos de produtos.
 
